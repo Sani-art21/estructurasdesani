@@ -171,3 +171,5 @@ export {
     obtenerDiaSemana,
     esVocal,
     evaluarNumeros,
+    };
+    
